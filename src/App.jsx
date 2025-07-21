@@ -92,7 +92,7 @@ export default function App() {
 
   return (
     <ThemeProvider theme={theme}>
-      <div className='w-full h-max-screen bg-center bg-no-repeat'  style={{ backgroundImage: "url('./public/images/bg_weather.jpg')" }}>
+      <div className='absolute top-0 left-0 w-full h-max-screen -z-10 bg-cover bg-center'  style={{ backgroundImage: "url('/images/bg_weather.jpg')" }}>
          <div className="flex items-center justify-center flex-row  gap-1">
         <label htmlFor="reda" className="text-[20px] mt-4 font-bold text-white">City name:</label>
         <input
