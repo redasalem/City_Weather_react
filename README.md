@@ -10,7 +10,7 @@ A fast and modern **React.js + Vite + Tailwind CSS** web application that allows
 ---
 
 ## 📷 Screenshot
-![Uploading image.png…]()
+![City Weather App](public/images/bg_weather.jpg)
 
 ---
 
