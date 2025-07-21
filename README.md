@@ -1,12 +1,57 @@
-# React + Vite
+# 🌍 City Weather React App | Realtime Weather by City
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fast and modern **React.js + Vite + Tailwind CSS** web application that allows users to search for the current weather in any city worldwide, displaying key information like temperature, humidity, sunrise/sunset time, and more!
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Live Demo
+🔗 [city-weather-react-redasalem.vercel.app](https://city-weather-react-redasalem.vercel.app)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📷 Screenshot
+![City Weather App](public/images/bg_weather.jpg)
+
+---
+
+## ✨ Features
+
+- 🔍 Instant city-based weather search
+- 🌤️ Displays real-time weather status (clear, cloudy, rainy, etc.)
+- 🌡️ Shows min and max temperatures
+- 🌅 Sunrise and sunset times in 12-hour format
+- 💧 Humidity and atmospheric pressure
+- 📱 Fully responsive design for all devices
+- ⚡ Lightning-fast load speed with Vite
+- 🎨 Clean and modern user interface
+- ☁️ Beautiful background image support
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- Vite
+- Tailwind CSS
+- OpenWeatherMap API
+- Deployment via Vercel
+
+- (react weather app, weather search by city, vite tailwind weather, openweather react, weather forecast react project, responsive weather app, weather api app, react.js tailwind weather, weather search app)
+
+---
+
+## ⚙️ Setup & Run Locally
+
+1. Clone the repository:
+```bash
+git clone https://github.com/redasalem/city-weather-react.git
+cd city-weather-react
+
+ Developer:
+
+🧠 Name: Reda Salem
+
+🔗 GitHub:https://github.com/redasalem/
+
+
+
